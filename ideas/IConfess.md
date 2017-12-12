@@ -1,0 +1,1 @@
+Web or mobile app that takes short, anonymous confessions and posts them to the twitter stream.
