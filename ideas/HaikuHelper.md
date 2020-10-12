@@ -1,1 +1,0 @@
-HaikuHelper: An app or web app that allows for entry of three rows of text. As you type, it keeps a running count of syllables in each row.
