@@ -1,0 +1,1 @@
+A twitter bot that posts every time somebody is "super excited" to launch on @producthunt
